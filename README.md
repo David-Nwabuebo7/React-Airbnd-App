@@ -1,18 +1,17 @@
-#Project Title
-Airbnb Clone
-Technologies Used
+# Airbnb Clone Frontend
+# Description
+This project is a frontend clone of Airbnb, built using React. It aims to replicate the core functionalities of the platform, including search, listing, booking, and user management.
 
-#Frontend: React, JavaScript, HTML, CSS
-Other technologies: (e.g., Stripe for payments, AWS for cloud services)
+# Features
+Search functionality for properties based on location, dates, and guest count.
+Detailed property listings with images, descriptions, amenities, and pricing information.
+User authentication and profile management.
+Booking system with calendar integration.
+Responsive design for optimal viewing on different screen sizes.
 
-#Project Structure
-client: Contains the frontend code (React components, styles, etc.)
-
-
-#Features
-User authentication (signup, login, logout)
-Property listings (search, filtering, sorting)
-Booking system (reservation, payment)
-User profiles and reviews
-Messaging system (optional)
-Payment integration (optional)
+# Technologies Used
+React
+State management library, e.g., Redux, Context API
+CSS framework or styling library, e.g., Tailwind CSS, Material UI
+Routing library, e.g., React Router
+Map integration, e.g., Google Maps API, Mapbox
