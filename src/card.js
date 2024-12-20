@@ -1,5 +1,5 @@
 import './App.css';
-import star  from '../public/images/star.png'
+import star  from './images/star.png'
 
 export default  function card(props){
    console.log(props);
