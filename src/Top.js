@@ -1,5 +1,5 @@
-import logo from './images/airbnb-logo.png'
-import grid from './images/photo-grid.png'
+import logo from '../public/images/airbnb-logo.png'
+import grid from '../public/images/photo-grid.png'
 
 import './App.css';
 import Card from './card'
